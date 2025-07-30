@@ -1,5 +1,5 @@
 # End_To_End_Python_Projects
-🔹 1. Customer Churn Prediction
+## 🔹 1. Customer Churn Prediction
 📂 Folder: Customer_Churn/
 
 🎯 Objective: Identify customers likely to churn from a telecom company.
@@ -10,7 +10,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔹 2. IPL Data Exploration (2008–2024)
+## 🔹 2. IPL Data Exploration (2008–2024)
 📂 Folder: IPL_2008_2024_VP/
 
 🎯 Objective: Perform season-wise analysis of IPL matches, teams, and player stats.
@@ -21,7 +21,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔹 3. Nutrition & Physical Activity Analysis
+## 🔹 3. Nutrition & Physical Activity Analysis
 📂 Folder: Nutrition_Physical_Activity_VP/
 
 🎯 Objective: Examine U.S. state-wise data on diet, physical activity, and health indicators.
@@ -32,7 +32,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔹 4. Urban Air Quality Assessment
+## 🔹 4. Urban Air Quality Assessment
 📂 Folder: Urban_Air_VP/
 
 🎯 Objective: Analyze pollutant levels in cities and their seasonal variations.
@@ -43,7 +43,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔹 5. Adult Income Classification
+## 🔹 5. Adult Income Classification
 📂 Folder: Adult_Analysis/
 
 🎯 Objective: Predict whether a person earns >$50K based on demographic attributes.
